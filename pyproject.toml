@@ -1,0 +1,15 @@
+[project]
+name = "autobinger"
+version = "0.1.0"
+authors = ["ch11nv11n <joedejesus91@gmail.com>"]
+description = "This package contains code to automatically perform Bing searches for MS points."
+readme = "README.md"
+requires-python = ">=3.9"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: Windows",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/ch11nv11n/projects/tree/main/AutoBinger"
