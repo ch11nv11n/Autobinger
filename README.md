@@ -11,7 +11,7 @@ Please note that such automation might violate Microsoft Rewards program's terms
   <li>Python 3.7 or above</li>
   <li>Selenium WebDriver</li>
   <li>webdriver_manager</li>
-  <li>re, requests, json, smtplib, ssl libraries (usually these come with standard Python installations)</li>
+  <li>re, requests, json, smtplib, ssl libraries</li>
 </ul>
 <h4>Installing</h4>
 <ol>
