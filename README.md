@@ -43,7 +43,7 @@ Please note that such automation might violate Microsoft Rewards program's terms
 <h4>Authors</h4>
     <p>ch11nv11n
     <br>
-    Your Contact Information
+    Contact Information
     <ul><li><b>DISCORD</b>: ch11nv11n</li></ul>
     </p>
 <h4>Version History</h4>
